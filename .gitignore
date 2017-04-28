@@ -11,3 +11,5 @@ pkg
 tmp
 .rbx/
 Gemfile.lock
+
+*.pem
